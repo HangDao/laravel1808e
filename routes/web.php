@@ -131,4 +131,4 @@ Route::get('/kt-snt/{number}',function($num){
 Route::get('/result-ok',function(){
 	return "Fail";
 });
-////
+// note//
